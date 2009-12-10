@@ -29,7 +29,23 @@
 		<type>rss</type>
 		<platform>all</platform>
 		<minversion>0.9.9</minversion>
-		<url>rss://feeds.feedburner.com/knowyourmeme</url>
+		<url>rss://www.rocketboom.com/index.php?feed=podcast&format=hd&cat=615</url>
+	</app>
+	<app>
+		<id>com.rocketboom.main</id>
+		<name>Rocketboom</name>
+		<version>1.0</version>
+		<description>Daily Internet Culture</description>
+		<thumb>http://www.rocketboom.com/boxee/thumbs/rocketboom.png</thumb>
+		<repositoryid>com.rocketboom</repositoryid>
+		<repository>http://www.rocketboom.com/boxee</repository>
+		<media>video</media>
+		<copyright>Rocketboom</copyright>
+		<email>info@rocketboom.com</email>
+		<type>rss</type>
+		<platform>all</platform>
+		<minversion>0.9.9</minversion>
+		<url>rss://www.rocketboom.com/rss/hd.xml</url>
 	</app>
 </apps>
 
