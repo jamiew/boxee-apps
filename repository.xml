@@ -1,7 +1,9 @@
 <repository>
-	<id>com.jamiedubs.dir</id>
+	<id>com.jamiedubs</id>
 	<url>http://dir.jamiedubs.com</url>
-	<name>Dubtron</name>
-	<thumb>http://img.podstreem.com/podstreem.png</thumb>
-	<description>Pure awesome</description>
+	<name>Jdubs Boxee Apps</name>
+	<thumb>http://dir.jamiedubs.com/thumbs/jamiedubs.png</thumb>
+	<description>All code available on http://github.com/jamiew</description>
 </repository>
+
+

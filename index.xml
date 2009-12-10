@@ -1,35 +1,19 @@
 <apps>
 	<app>
-		<id>rocketboom</id>
-		<name>Rocketboom</name>
+		<id>com.jamiedubs.magma</id>
+		<name>Magma</name>
 		<version>1.0</version>
-		<description>Daily Internet Culture</description>
-		<!-- <thumb>http://www.rocketboom.net/images/rocketboom_itunes_20070801.jpg</thumb> -->
-		<thumb>http://jamiedubs.com/working/vimeo-logo-sq-200.jpg</thumb>
-		<repositoryid>com.jamiedubs.dir</repositoryid>
+		<description>Must Watch: the current top videos to watch right now</description>
+		<thumb>http://jamiedubs.com/dir/thumbs/magma.png</thumb>
+		<repositoryid>com.jamiedubs</repositoryid>
 		<repository>http://dir.jamiedubs.com</repository>
 		<media>video</media>
-		<copyright>Rocketboom</copyright>
-		<email>hi@rocketboom.com</email>
+		<copyright>Magma</copyright>
+		<email>info@mag.ma</email>
 		<type>rss</type>
 		<platform>all</platform>
-		<minversion>0.9.7</minversion>
-		<url>rss://feeds2.feedburner.com/rocketboom</url>
-	</app>
-	<app>
-		<id>vimeo</id>
-		<name>Vimeo</name>
-		<version>1.0</version>
-		<description>curated by the hard working Vimeo staff</description>
-		<thumb>http://jamiedubs.com/working/vimeo-logo-sq-200.jpg</thumb>
-		<repositoryid>com.jamiedubs.dir</repositoryid>
-		<repository>http://dir.jamiedubs.com</repository>
-		<media>video</media>
-		<copyright>Vimeo</copyright>
-		<email>jamie@jamiedubs.com</email>
-		<type>rss</type>
-		<platform>all</platform>
-		<minversion>0.9.7</minversion>
-		<url>rss://vimeo.com/channels/hd/videos/rss</url>
+		<minversion>0.9.9</minversion>
+		<url>rss://mag.ma/mustwatch.rss</url>
 	</app>
 </apps>
+
