@@ -10,5 +10,5 @@
 	<type>rss</type>
 	<platform>all</platform>
 	<minversion>0.9.9</minversion>
-	<url>rss://feeds.feedburner.com/knowyourmeme/hd</url>
+	<url>rss://feeds.feedburner.com/knowyourmeme</url>
 </app>

@@ -15,5 +15,21 @@
 		<minversion>0.9.9</minversion>
 		<url>rss://mag.ma/mustwatch.rss</url>
 	</app>
+	<app>
+		<id>com.rocketboom.knowyourmeme</id>
+		<name>Know Your Meme</name>
+		<version>1.0</version>
+		<description>Investigations of memes, viral videos, and other Internet phenomena</description>
+		<thumb>http://www.rocketboom.com/boxee/thumbs/knowyourmeme.png</thumb>
+		<repositoryid>com.rocketboom</repositoryid>
+		<repository>http://www.rocketboom.com/boxee</repository>
+		<media>video</media>
+		<copyright>Rocketboom</copyright>
+		<email>info@knowyourmeme.com</email>
+		<type>rss</type>
+		<platform>all</platform>
+		<minversion>0.9.9</minversion>
+		<url>rss://feeds.feedburner.com/knowyourmeme</url>
+	</app>
 </apps>
 
