@@ -1,7 +1,24 @@
-dir.jamiedubs.com
+-----------------
+www.rocketboom.com/boxee
 -----------------
 
-Repository with my applications for Boxee
+Repository with video applications for Boxee. Right now they're just simple RSS applications (+ customized feeds):
+
+* Magma Must Watch: http://mag.ma/mustwatch
+* Know Your Meme: http://knowyourmeme.com/episodes
+* Rocketboom: http://www.rocketboom.com
 
 To install these applications add "dir.jamiedubs.com" as a repository in Boxee
-(note: apps not currently working!)
+
+# App Box
+# Add Repository 
+## > dir.jamiedubs.com
+# New Applications
+# [add...]
+
+To access them:
+
+# Applications > All
+# [appname]
+
+(Note: only tested with Boxee Alpha)

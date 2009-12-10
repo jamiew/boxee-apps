@@ -4,7 +4,7 @@
 		<name>Magma</name>
 		<version>1.0</version>
 		<description>Must Watch: the current top videos to watch right now</description>
-		<thumb>http://jamiedubs.com/dir/thumbs/magma.png</thumb>
+		<thumb>http://www.rocketboom.com/boxee/thumbs/magma.png</thumb>
 		<repositoryid>com.jamiedubs</repositoryid>
 		<repository>http://dir.jamiedubs.com</repository>
 		<media>video</media>
