@@ -1,9 +1,7 @@
 <repository>
-	<id>com.jamiedubs</id>
-	<url>http://dir.jamiedubs.com</url>
+	<id>com.rocketboom</id>
+	<url>http://www.rocketboom.com/boxee</url>
 	<name>RB Boxee Repo</name>
 	<thumb>http://www.rocketboom.com/boxee/thumbs/jamiedubs.png</thumb>
 	<description>Code available on http://github.com/jamiew</description>
 </repository>
-
-
