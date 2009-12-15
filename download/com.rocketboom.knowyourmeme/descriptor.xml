@@ -10,5 +10,5 @@
 	<type>rss</type>
 	<platform>all</platform>
 	<minversion>0.9.9</minversion>
-	<url>rss://www.rocketboom.com/index.php?feed=podcast&format=hd&cat=615</url>
+	<url>rss://www.rocketboom.com/rss_cache/kym-hd.xml</url>
 </app>
