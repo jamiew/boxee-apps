@@ -1,0 +1,34 @@
+=== rocketboom.com/boxee ===
+
+Repository with a few video applications for Boxee. 
+Right now these are just simple RSS applications + customized feeds --
+Boxee likes feeds with 200x200 <media:thumbnail>'s and some <boxee:display> mods
+
+The apps:
+* Magma Must Watch: http://mag.ma/mustwatch
+* Know Your Meme: http://knowyourmeme.com/episodes
+* Rocketboom: http://www.rocketboom.com
+
+A quick screencast of the install & kicking the tires:
+http://vimeo.com/8209288
+
+== Install ==
+
+Since these aren't yet in the official repository, you need to 
+add "rocketboom.com/boxeee" as a 3rd party repository first
+
+1. App Box
+2. Add Repository 
+3. > rocketboom.com/boxee
+
+Then hit up the 'New Applications' tab and add the 3 fresh apps:
+
+1. New Applications
+2. [add...]
+
+Finally, to access them:
+
+1. Applications > All
+2. [appname]
+
+Enjoy!
